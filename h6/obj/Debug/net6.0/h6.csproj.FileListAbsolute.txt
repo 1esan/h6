@@ -1,0 +1,15 @@
+C:\Users\egorl\source\repos\h6\h6\bin\Debug\net6.0\h6.exe
+C:\Users\egorl\source\repos\h6\h6\bin\Debug\net6.0\h6.deps.json
+C:\Users\egorl\source\repos\h6\h6\bin\Debug\net6.0\h6.runtimeconfig.json
+C:\Users\egorl\source\repos\h6\h6\bin\Debug\net6.0\h6.dll
+C:\Users\egorl\source\repos\h6\h6\bin\Debug\net6.0\h6.pdb
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.csproj.AssemblyReference.cache
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.AssemblyInfoInputs.cache
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.AssemblyInfo.cs
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.csproj.CoreCompileInputs.cache
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.dll
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\refint\h6.dll
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.pdb
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\h6.genruntimeconfig.cache
+C:\Users\egorl\source\repos\h6\h6\obj\Debug\net6.0\ref\h6.dll
